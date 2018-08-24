@@ -1,10 +1,15 @@
 h1 {
-  color: purple;
+  color: red;
+  border: 2px solid blue;
 }
 li {
-  color: orange;
+  color: rgb(200, 99, 14);
 }
 
 h4 {
 	color: green;
+}
+
+body {
+	background: url(https://images.pexels.com/photos/172292/pexels-photo-172292.jpeg?cs=srgb&dl=wood-pattern-floor-172292.jpg&fm=jpg);
 }
